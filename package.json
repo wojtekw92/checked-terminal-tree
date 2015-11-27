@@ -1,0 +1,23 @@
+{
+  "name": "checked-terminal-tree",
+  "version": "1.0.0",
+  "description": "termnial tree with multi line chceck",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtekw92/checked-terminal-tree.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wojtekw92/checked-terminal-tree/issues"
+  },
+  "homepage": "https://github.com/wojtekw92/checked-terminal-tree#readme"
+}
